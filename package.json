@@ -11,7 +11,8 @@
   },
   "keywords": [
     "sequelize",
-    "fixtures"
+    "fixtures",
+    "sequelize-fixtures"
   ],
   "dependencies": {
     "bluebird": "^2.4.2",
@@ -28,12 +29,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/domasx2/sequelize-fixtures.git"
+    "url": "git@github.com:glints-dev/sequelize-fixtures.git"
   },
   "bugs": {
-    "url": "https://github.com/domasx2/sequelize-fixtures/issues"
+    "url": "https://github.com/glints-dev/sequelize-fixtures/issues"
   },
-  "author": "Domas Lapinskas <domasx2@gmail.com>",
+  "author": "Ying Cong <yingcong@glints.com>",
   "license": "BSD",
   "readmeFilename": "README.md"
 }
