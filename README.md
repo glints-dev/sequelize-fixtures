@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.org/domasx2/sequelize-fixtures.svg?branch=master)](https://travis-ci.org/domasx2/sequelize-fixtures)
-
-Sequelize fixtures
+Sequelize fixtures for Sequelize v4
 ==========================================
+
+Forked from sequelize-fixtures by domasx2, but with fixes to support Sequelize v4 to support loading many-to-many associations with attributes. Otherwise unchanged.
 
 This is a simple lib to load data to database using sequelize.  
 It is intended for easily setting up test data.  
